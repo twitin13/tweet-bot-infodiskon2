@@ -13,13 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu
     const textTweet = `
-Wizzmie Shopeefood Diskon 100% s/d 30rb ‼️ Hanya berlaku hari ini! 🍜
+SeIndonesia Dapet 2 nih!! Bisa semua cabang SHOPEEFOOD DISKON jadi 8rb aja!! 😭😭😭
 
-Klaim di sini 👇
-https://spf.shopee.co.id/9zq5rmHnkA
-https://spf.shopee.co.id/9zq5rmHnkA
+Klaim & pakai voucher disini sekarangg👇👇
+https://spf.shopee.co.id/3LJCZXDfVI
+https://spf.shopee.co.id/3LJCZXDfVI
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher voc wts wtb jual beli daget gojek malming thr shopeepay spay
+t. go grab shopee food gofood grabfood sfood kode promo gojek daget gratis ongkir thr wts wts
 `;
 
     // 📸 Upload dua gambar
@@ -37,3 +37,4 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher voc wts wtb jual
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+

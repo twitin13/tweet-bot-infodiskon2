@@ -17,9 +17,8 @@ SeIndonesia Dapet 2 nih!! Bisa semua cabang SHOPEEFOOD DISKON jadi 8rb aja!! �
 
 Klaim & pakai voucher disini sekarangg👇👇
 https://spf.shopee.co.id/3LJCZXDfVI
-https://spf.shopee.co.id/3LJCZXDfVI
 
-t. go grab shopee food gofood grabfood sfood kode promo gojek daget gratis ongkir thr wts wts
+t. go grab shopee food gofood grabfood sfood kode promo gojek daget gratis ongkir thr wts wts Gary Iskak Raisa 
 `;
 
     // 📸 Upload dua gambar
@@ -37,4 +36,5 @@ t. go grab shopee food gofood grabfood sfood kode promo gojek daget gratis ongki
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 

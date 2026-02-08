@@ -13,12 +13,12 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu
     const textTweet = `
-SeIndonesia Dapet 2 nih!! Bisa semua cabang SHOPEEFOOD DISKON jadi 8rb aja!! 😭😭😭
+Murah bingitt mumpung lagi turun harga, Mak Dura cuma 8K UDAH INCLUDE ONGKIR yaaa
 
-Klaim & pakai voucher disini sekarangg👇👇
-https://spf.shopee.co.id/8zxuxNaYjh
+Buruan co sebelum naik 👇
+spf.shopee.co.id/2g4kmd660h
 
-t. malming malam minggu pagii go grab shopee food gofood grabfood sfood kode promo gojek daget gratis ongkir thr wts wts 
+diskon kode promo voucher shopeefood gofood grabfood go grab shopee food gojek gratis ongkir 
 `;
 
     // 📸 Upload dua gambar
@@ -36,6 +36,7 @@ t. malming malam minggu pagii go grab shopee food gofood grabfood sfood kode pro
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
 
